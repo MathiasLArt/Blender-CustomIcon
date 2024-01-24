@@ -19,4 +19,4 @@ And then calling them like this:
 ``` 
 ICONS["ico-devices"].icon_id
 ```
-For a more conrete example, check the github panel.py file.
+For a more concrete example, check the github panel.py file.
